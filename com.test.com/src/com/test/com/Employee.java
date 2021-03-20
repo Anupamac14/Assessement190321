@@ -5,7 +5,7 @@ public class Employee {
 		public static void main(String[] args) {
 			String a1 = "Shivagopal";
 			String a2 = null;
-			String a3 = "asdf";
+			String a3 = "";
 			String a4 = "Chandrashekar";
 			String a5 = "Rajkala";
 			if(a1.contains("Shiva")) {
